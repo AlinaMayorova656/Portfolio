@@ -4,7 +4,7 @@
 
 **Инструменты:**
 
--SQL (PostgreSQL)
+- SQL (PostgreSQL)
 - DBeaver
 - Jupyter Notebook (для оформления отчета)
 
